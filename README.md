@@ -53,19 +53,13 @@ useEffect(() => {
 
 🚀 Lancer le projet
 Cloner le dépôt ou créer une app :
-
-bash
 npx create-react-app user-list-app
 cd user-list-app
 
 
 Installer Axios :
-
-bash
 npm install axios
 
 
 Démarrer le projet :
-
-bash
 npm start
